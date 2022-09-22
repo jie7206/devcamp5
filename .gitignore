@@ -20,3 +20,7 @@
 
 # I don't want to show my secrets
 /config/secrets.yml
+
+# Ignore The Complete 2022 Web Development Bootcamp
+/public/web2022/
+/public/.DS_Store
